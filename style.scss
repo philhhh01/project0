@@ -1,0 +1,29 @@
+$color: red;
+
+
+#welcome {
+	color: $color;
+}
+.pgTitle {
+	color: purple;
+	border-style: double;
+	background-color: lightblue;
+	font-style: italic;
+	h2 {
+		background-color: purple;
+		color:$color;
+		font-style: normal;
+	}
+}
+.foot {
+	text-align: center;
+	font-weight: bold;
+	font-size: large;
+	color:purple;
+}
+
+.specificFoot {
+      @extend .foot;
+      color: $color;
+  }
+

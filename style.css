@@ -1,0 +1,28 @@
+#welcome {
+  color: red;
+}
+
+.pgTitle {
+  color: purple;
+  border-style: double;
+  background-color: lightblue;
+  font-style: italic;
+}
+.pgTitle h2 {
+  background-color: purple;
+  color: red;
+  font-style: normal;
+}
+
+.foot, .specificFoot {
+  text-align: center;
+  font-weight: bold;
+  font-size: large;
+  color: purple;
+}
+
+.specificFoot {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
