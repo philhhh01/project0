@@ -31,3 +31,5 @@ It also uses both class and ID selectors.
 
 style.scss is a sass sheet. It gets compiled into style.css.
 It uses $color as a variable, .pgTitle for nesting and .foot with .specificFoot as an example of inheritance.
+
+cs50 project0.mp4 is the screencast. I apologize for the poor quality, I think this is due to my poor laptop.
